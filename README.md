@@ -12,11 +12,11 @@
 
 Primeiramente, clone ela: <p/>
 ```
-git clone https://github.com/Black-Hell-Team/Power-DoS.git
+git clone https://github.com/SonuModder1/DDOSV8
 ```
 Agora, entre no diretório clonado: <p/>
 ```
-cd Power-DoS 
+cd DDOSV8 
 ```
 E então, inicie a ferramenta utilizando python3 <p/>
 ```
@@ -42,11 +42,11 @@ Power-DoS is a mini Denial Of Service tool. It features:
 
 Firstly, gitclone it: <p/>
 ```
-git clone https://github.com/Black-Hell-Team/Power-DoS.git
+git clone https://github.com/SonuModder1/DDOSV8
 ```
 Now, get into the cloned directory: <p/>
 ```
-cd Power-DoS 
+cd DDOSV8
 ```
 And then, simply start the tool using python3 (arguments are still not supported, use the interactive interface instead) <p/>
 ```
